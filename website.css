@@ -1,0 +1,81 @@
+body {
+    background-color: #FEF1DB;
+}
+
+
+#header {
+    height: 120px;
+    width: 1903px;
+    background-color: #D5C4A7;
+    position: absolute;
+}
+
+#title {
+    font-family: fantasy;
+    font-size: 50px;
+    height: 50px;
+    width: 353px;
+    margin-left: 150px;
+    margin-top: 32px;
+    color: #4D3E23;
+    float: left;
+}
+
+#home {
+    font-family: fantasy;
+    height: 25px;
+    width: 80px;
+    margin-left: 1010px;
+    margin-top: 42px;
+    color: #4D3E23;
+    position: absolute;
+}
+
+#order {
+   font-family: fantasy;
+    height: 25px;
+    width: 94px;
+    margin-left: 1130px;
+    margin-top: 42px;
+    color: #4D3E23;
+    position: absolute;
+}
+
+#pizzas {
+    font-family: fantasy;
+    height: 25px;
+    width: 87px;
+    margin-left: 1260px;
+    margin-top: 42px;
+    color: #4D3E23;
+    position: absolute;
+}
+
+#aboutus {
+    font-family: fantasy;
+    height: 25px;
+    width: 134px;
+    margin-left: 1380px;
+    margin-top: 42px;
+    color: #4D3E23;
+    position: absolute;
+}
+
+#contact {
+    font-family: fantasy;
+    height: 25px;
+    width: 125px;
+    margin-left: 1550px;
+    margin-top: 42px;
+    color: #4D3E23;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #925A16;
+}
