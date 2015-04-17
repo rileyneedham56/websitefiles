@@ -1,7 +1,4 @@
-
 $(document).ready(function(){
-
-
     
 });
 
@@ -32,4 +29,3 @@ var locations = function() {
     confirm("We have five total locations around Texas. We have one in Dallas, Fort Worth, Houston, San Antonio, and Austin.")
 
 }
-
