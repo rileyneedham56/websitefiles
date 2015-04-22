@@ -11,15 +11,6 @@ body {
     position: absolute;
 }
 
-#about {
-    font-family: monospace;
-    font-size: 70px;
-    color: #8B29AE;
-    margin-left: 200px;
-    margin-top: 500px;
-    position: absolute;
-}
-
 #pizza1 {
     position: absolute;
     margin-left: 300px;
@@ -42,4 +33,63 @@ body {
     position: absolute;
     margin-left: 1200px;
     margin-top: 210px
+}
+
+#about {
+    font-family: monospace;
+    font-size: 70px;
+    color: #8B29AE;
+    margin-left: 200px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+#locations {
+    font-family: monospace;
+    font-size: 70px;
+    color: #8B29AE;
+    margin-left: 710px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+#order {
+    font-family: monospace;
+    font-size: 70px;
+    color: #8B29AE;
+    margin-left: 1400px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+#aboutdetails {
+    position: absolute;
+    height: 191px;
+    width: 207px;
+    margin-top: 600px;
+    margin-left: 194px;
+}
+
+#locationsdetails {
+    position: absolute;
+    height: 174px;
+    width: 149px;
+    margin-top: 600px;
+    margin-left: 820px;
+}
+
+#ordercall {
+    position: absolute;
+    height: 24px;
+    width: 48px;
+    margin-top: 630px;
+    margin-left: 1480px;
+}
+
+#ordernumber {
+    position: absolute;
+    height: 23px;
+    width: 187px;
+    margin-top: 700px;
+    margin-left: 1416px;
 }
