@@ -93,3 +93,48 @@ body {
     margin-top: 700px;
     margin-left: 1416px;
 }
+
+#lightspeed {
+    position: absolute;
+    color: #58D3F7;
+    font-family: monospace;
+    font-size: 80px;
+    margin-top: 1200px;
+    margin-left: 445px;
+}
+
+#ship1 {
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 300px;
+}
+
+#ship2 {
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 1310px;
+}
+
+#ship3 {
+    position: absolute;
+    margin-top: 1186px;
+    margin-left: 100px;
+}
+
+#ship4 {
+    position: absolute;
+    margin-top: 1186px;
+    margin-left: 1540px;
+}
+
+#ship5 {
+    position: absolute;
+    margin-top: 1386px;
+    margin-left: 300px;
+}
+
+#ship6 {
+    position: absolute;
+    margin-top: 1386px;
+    margin-left: 1310px;
+}
