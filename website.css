@@ -99,42 +99,47 @@ body {
     color: #58D3F7;
     font-family: monospace;
     font-size: 80px;
-    margin-top: 1200px;
-    margin-left: 445px;
+    margin-top: 1300px;
+    margin-left: 450px;
 }
 
 #ship1 {
     position: absolute;
-    margin-top: 1000px;
-    margin-left: 300px;
+    margin-top: 1100px;
+    margin-left: 305px;
 }
 
 #ship2 {
     position: absolute;
-    margin-top: 1000px;
-    margin-left: 1310px;
+    margin-top: 1100px;
+    margin-left: 1315px;
 }
 
 #ship3 {
     position: absolute;
-    margin-top: 1186px;
-    margin-left: 100px;
+    margin-top: 1286px;
+    margin-left: 105px;
 }
 
 #ship4 {
     position: absolute;
-    margin-top: 1186px;
-    margin-left: 1540px;
+    margin-top: 1286px;
+    margin-left: 1545px;
 }
 
 #ship5 {
     position: absolute;
-    margin-top: 1386px;
-    margin-left: 300px;
+    margin-top: 1486px;
+    margin-left: 305px;
 }
 
 #ship6 {
     position: absolute;
-    margin-top: 1386px;
-    margin-left: 1310px;
+    margin-top: 1486px;
+    margin-left: 1315px;
+}
+
+#test {
+    position: absolute;
+    margin-top: 2000px;
 }
