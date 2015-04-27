@@ -93,6 +93,7 @@ body {
     margin-top: 700px;
     margin-left: 1416px;
 }
+<<<<<<< HEAD
 a {
   transition:.2s;
 }
@@ -103,3 +104,56 @@ a:hover {
         .9rem .4rem #fd1d1d,
         -.9rem .4rem #8500e2;
     opacity: .7;
+=======
+
+#lightspeed {
+    position: absolute;
+    color: #58D3F7;
+    font-family: monospace;
+    font-size: 80px;
+    margin-top: 1300px;
+    margin-left: 450px;
+    text-shadow: 7px 7px #0B4C5F;
+}
+
+#ship1 {
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 305px;
+}
+
+#ship2 {
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 1315px;
+}
+
+#ship3 {
+    position: absolute;
+    margin-top: 1286px;
+    margin-left: 105px;
+}
+
+#ship4 {
+    position: absolute;
+    margin-top: 1286px;
+    margin-left: 1545px;
+}
+
+#ship5 {
+    position: absolute;
+    margin-top: 1486px;
+    margin-left: 305px;
+}
+
+#ship6 {
+    position: absolute;
+    margin-top: 1486px;
+    margin-left: 1315px;
+}
+
+#test {
+    position: absolute;
+    margin-top: 2000px;
+}
+>>>>>>> fdb47bbd9895a704774380b207cb1ff0a3084b5c
