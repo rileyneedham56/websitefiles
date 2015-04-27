@@ -3,7 +3,7 @@ body {
 }
 
 #title {
-    font-family: monospace;
+    font-family: calibri;
     font-size: 140px;
     margin-left: 420px;
     margin-top: 60px;
@@ -36,7 +36,7 @@ body {
 }
 
 #about {
-    font-family: monospace;
+    font-family: calibri;
     font-size: 70px;
     color: white;
     margin-left: 200px;
@@ -45,7 +45,7 @@ body {
 }
 
 #locations {
-    font-family: monospace;
+    font-family: calibri;
     font-size: 70px;
     color: white;
     margin-left: 710px;
@@ -54,7 +54,7 @@ body {
 }
 
 #order {
-    font-family: monospace;
+    font-family: calibri;
     font-size: 70px;
     color: white;
     margin-left: 1400px;
@@ -95,15 +95,15 @@ body {
 }
 <<<<<<< HEAD
 a {
-  transition:.2s;
+  transition: 1sec;
 }
 
 a:hover {
     text-shadow: 
-        0 -.6rem #00ff42,
-        .9rem .4rem #fd1d1d,
-        -.9rem .4rem #8500e2;
-    opacity: .7;
+        .2rem .1rem #00ff42,
+        .5rem .2rem #fd1d1d,
+        .8rem .3rem #8500e2;
+    opacity: 1;
 =======
 
 #lightspeed {
