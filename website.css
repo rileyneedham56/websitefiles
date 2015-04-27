@@ -38,7 +38,7 @@ body {
 #about {
     font-family: monospace;
     font-size: 70px;
-    color: #8B29AE;
+    color: white;
     margin-left: 200px;
     margin-top: 500px;
     position: absolute;
@@ -47,7 +47,7 @@ body {
 #locations {
     font-family: monospace;
     font-size: 70px;
-    color: #8B29AE;
+    color: white;
     margin-left: 710px;
     margin-top: 500px;
     position: absolute;
@@ -56,7 +56,7 @@ body {
 #order {
     font-family: monospace;
     font-size: 70px;
-    color: #8B29AE;
+    color: white;
     margin-left: 1400px;
     margin-top: 500px;
     position: absolute;
@@ -92,6 +92,18 @@ body {
     width: 187px;
     margin-top: 700px;
     margin-left: 1416px;
+}
+
+a {
+  transition:.2s;
+}
+
+a:hover {
+    text-shadow: 
+        0 -.6rem #00ff42,
+        .9rem .4rem #fd1d1d,
+        -.9rem .4rem #8500e2;
+    opacity: .7;
 }
 
 #lightspeed {
