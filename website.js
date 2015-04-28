@@ -16,7 +16,7 @@ var pizzas = function() {
 
 var aboutUs = function() {
 
-    confirm("Homeslice is a small pizza company with only a few locations in Texas. We make our pizza from fresh ingrediants brought in daily and make the pizza when you order it, so it is as fresh as possible. You can come to one of our locations and have it made infront of you or you can order it from our website and have it delivered straight to your doorstep.");
+    confirm("Galaxy Pizza is a small pizza company with a few locations in Texas. We make our pizza from fresh ingrediants brought in daily and make the pizza right when you order so it is as fresh as possible. You can come to one of our locations and have it made infront of you or you can order it from our website and have it delivered straight to your doorstep.");
 
 }
 
@@ -25,5 +25,3 @@ var locations = function() {
     confirm("We have five total locations around Texas. We have one in Dallas, Fort Worth, Houston, San Antonio, and Austin.")
 
 }
-
-$(document).ready(function(){}

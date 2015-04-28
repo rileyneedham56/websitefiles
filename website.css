@@ -93,18 +93,23 @@ body {
     margin-top: 700px;
     margin-left: 1416px;
 }
-<<<<<<< HEAD
+
 a {
-  transition: 1sec;
+ 
+    transition:.2s;
+    text-decoration: none;
+    color: #ffffff;
+
 }
 
 a:hover {
     text-shadow: 
-        .2rem .1rem #00ff42,
-        .5rem .2rem #fd1d1d,
-        .8rem .3rem #8500e2;
-    opacity: 1;
-=======
+        0 -.6rem #00ff42,
+        .9rem .4rem #fd1d1d,
+        -.9rem .4rem #8500e2;
+    opacity: .7;
+}
+
 
 #lightspeed {
     position: absolute;
@@ -154,6 +159,5 @@ a:hover {
 
 #test {
     position: absolute;
-    margin-top: 2000px;
+    margin-top: 1800px;
 }
->>>>>>> fdb47bbd9895a704774380b207cb1ff0a3084b5c
