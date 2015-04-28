@@ -161,3 +161,20 @@ a:hover {
     position: absolute;
     margin-top: 1800px;
 }
+
+#bottom {
+    height: 100px;
+    width: 1886px;
+    background: #0A122A;
+    position: absolute;
+    margin-top: 1800px;
+}
+
+#smalltitle {
+    position: absolute;
+    color: #02FE30;
+    font-family: calibri;
+    font-size: 60px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
