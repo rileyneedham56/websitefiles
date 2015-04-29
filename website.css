@@ -165,3 +165,22 @@ a:hover {
     margin-top: 1800px;
 }
 
+<<<<<<< HEAD
+=======
+#bottom {
+    height: 100px;
+    width: 1886px;
+    background: #0A122A;
+    position: absolute;
+    margin-top: 1800px;
+}
+
+#smalltitle {
+    position: absolute;
+    color: #02FE30;
+    font-family: calibri;
+    font-size: 60px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+>>>>>>> d8d7969be0d3593cae01adeab04c7e0a9af01a2e
