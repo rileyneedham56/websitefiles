@@ -5,7 +5,7 @@ body {
 #title {
     font-family: calibri;
     font-size: 140px;
-    margin-left: 420px;
+    margin-left: 520px;
     margin-top: 60px;
     color: #02FE30;
     position: absolute;
@@ -13,26 +13,26 @@ body {
 
 #pizza1 {
     position: absolute;
-    margin-left: 300px;
-    margin-top: 210px
+    margin-left: 115px;
+    margin-top: 240px
 }
 
 #pizza2 {
     position: absolute;
-    margin-left: 600px;
-    margin-top: 210px
+    margin-left: 565px;
+    margin-top: 240px
 }
 
 #pizza3 {
     position: absolute;
-    margin-left: 900px;
-    margin-top: 210px
+    margin-left: 985px;
+    margin-top: 240px
 }
 
 #pizza4 {
     position: absolute;
-    margin-left: 1200px;
-    margin-top: 210px
+    margin-left: 1455px;
+    margin-top: 240px
 }
 
 #about {
@@ -95,19 +95,17 @@ body {
 }
 
 a {
- 
     transition:.2s;
     text-decoration: none;
     color: #ffffff;
-
 }
 
 a:hover {
     text-shadow: 
-        0 -.6rem #00ff42,
-        .9rem .4rem #fd1d1d,
-        -.9rem .4rem #8500e2;
-    opacity: .7;
+        .2rem .1rem #00ff42,
+        .5rem .2rem #fd1d1d,
+        .8rem .3rem #8500e2;
+    opacity: 1;
 }
 
 
@@ -118,7 +116,8 @@ a:hover {
     font-size: 80px;
     margin-top: 1300px;
     margin-left: 450px;
-    text-shadow: 7px 7px #0B4C5F;
+    text-shadow: 3.5px 3px #2f8da8,
+                 7px 6px #0B4C5F;
 }
 
 #ship1 {
