@@ -94,13 +94,13 @@ body {
     margin-left: 1416px;
 }
 
-a {
+#detailbuttons {
     transition:.2s;
     text-decoration: none;
     color: #ffffff;
 }
 
-a:hover {
+#detailbuttons:hover {
     text-shadow: 
         .2rem .1rem #00ff42,
         .5rem .2rem #fd1d1d,
@@ -117,13 +117,7 @@ a:hover {
     margin-top: 1300px;
     margin-left: 450px;
     text-shadow: 3.5px 3px #2f8da8,
-<<<<<<< HEAD
                  7px 6px #0B4C5F;
-=======
-                 7px 6px #0B4C5F
-                 
-    
->>>>>>> 11e89d46d6a87914c40fa77b9c9ec7094fc2ac40
 }
 
 #ship1 {
@@ -170,7 +164,7 @@ a:hover {
 #bottom {
     height: 100px;
     width: 1886px;
-    background: #0A122A;
+    background: #0B0719;
     position: absolute;
     margin-top: 1800px;
 }
@@ -182,4 +176,48 @@ a:hover {
     font-size: 60px;
     margin-top: 15px;
     margin-left: 50px;
+}
+
+#termsofuse {
+    position: absolute;
+    color: #848484;
+    margin-top: 40px;
+    margin-left: 600px;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+#termsandpolicy {
+    color: #D8D8D8;
+}
+
+#termsandpolicy:hover {
+    color: #02FE30;
+}
+
+#citystate {
+    color: #D8D8D8;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 1600px;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+#streetaddress {
+    color: #848484;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 1600px;
+    font-family: calibri;
+    font-size: 17px;
+}
+
+#zipcode {
+    color: #848484;
+    position: absolute;
+    margin-top: 62px;
+    margin-left: 1600px;
+    font-family: calibri;
+    font-size: 17px;
 }
