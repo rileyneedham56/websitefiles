@@ -117,7 +117,13 @@ a:hover {
     margin-top: 1300px;
     margin-left: 450px;
     text-shadow: 3.5px 3px #2f8da8,
+<<<<<<< HEAD
                  7px 6px #0B4C5F;
+=======
+                 7px 6px #0B4C5F
+                 
+    
+>>>>>>> 11e89d46d6a87914c40fa77b9c9ec7094fc2ac40
 }
 
 #ship1 {
