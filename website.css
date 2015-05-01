@@ -108,13 +108,29 @@ body {
     opacity: 1;
 }
 
+#browse {
+    position: absolute;
+    color: red;
+    font-family: calibri;
+    font-size: 60px;
+    margin-top: 1000px;
+    margin-left: 550px;
+}
+
+#cheese {
+    position: absolute;
+    color: #ffffff;
+    font-family: calibri;
+    font-size: 50px;
+    margin-top: 1200px
+}
 
 #lightspeed {
     position: absolute;
     color: #58D3F7;
     font-family: monospace;
     font-size: 80px;
-    margin-top: 1300px;
+    margin-top: 2200px;
     margin-left: 450px;
     text-shadow: 3.5px 3px #2f8da8,
                  7px 6px #0B4C5F;
@@ -122,43 +138,56 @@ body {
 
 #ship1 {
     position: absolute;
-    margin-top: 1100px;
-    margin-left: 305px;
+    margin-top: 2070px;
+    margin-left: 80px;
 }
 
 #ship2 {
     position: absolute;
-    margin-top: 1100px;
-    margin-left: 1315px;
+    margin-top: 2070px;
+    margin-left: 1520px;
 }
 
 #ship3 {
     position: absolute;
-    margin-top: 1286px;
-    margin-left: 105px;
+    margin-top: 2350px;
+    margin-left: 190px;
 }
 
 #ship4 {
     position: absolute;
-    margin-top: 1286px;
-    margin-left: 1545px;
+    margin-top: 2350px;
+    margin-left: 1410px;
 }
 
 #ship5 {
     position: absolute;
-    margin-top: 1486px;
-    margin-left: 305px;
+    margin-top: 2000px;
+    margin-left: 610px;
 }
 
 #ship6 {
     position: absolute;
-    margin-top: 1486px;
-    margin-left: 1315px;
+    margin-top: 2000px;
+    margin-left: 980px;
 }
 
-#test {
-    position: absolute;
-    margin-top: 1800px;
+#alien1 {
+     position: absolute;
+     margin-top: 2400px;
+     margin-left: 605px
+}
+
+#alien2 {
+     position: absolute;
+     margin-top: 2400px;
+     margin-left: 815px
+}
+
+#alien3 {
+     position: absolute;
+     margin-top: 2400px;
+     margin-left: 1005px
 }
 
 #bottom {
@@ -166,7 +195,7 @@ body {
     width: 1886px;
     background: #0B0719;
     position: absolute;
-    margin-top: 1800px;
+    margin-top: 2700px;
 }
 
 #smalltitle {
@@ -177,7 +206,6 @@ body {
     margin-top: 15px;
     margin-left: 50px;
 }
-<<<<<<< HEAD
 
 #termsofuse {
     position: absolute;
@@ -222,9 +250,3 @@ body {
     font-family: calibri;
     font-size: 17px;
 }
-
- #alien {
-     position: absolute;
-     margin-top: 1286px;
-     margin-right: 1315px;
- }
