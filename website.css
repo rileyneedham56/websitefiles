@@ -110,7 +110,7 @@ body {
 
 #browse {
     position: absolute;
-    color: red;
+    color: #ffffff;
     font-family: calibri;
     font-size: 60px;
     margin-top: 1000px;
@@ -119,10 +119,46 @@ body {
 
 #cheese {
     position: absolute;
-    color: #ffffff;
+    color: red;
     font-family: calibri;
     font-size: 50px;
-    margin-top: 1200px
+    margin-top: 1200px;
+    margin-left: 200px;
+}
+
+#cheesepizza {
+    position: absolute;
+    margin-top: 1300px;
+}
+
+#pepperoni {
+    position: absolute;
+    color: red;
+    font-family: calibri;
+    font-size: 50px;
+    margin-top: 1200px;
+    margin-left: 820px;
+}
+
+#pepperonipizza {
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: 640px;
+}
+
+#custom {
+    position: absolute;
+    color: red;
+    font-family: calibri;
+    font-size: 50px;
+    margin-top: 1200px;
+    margin-left: 1480px;
+}
+
+#custompizza {
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: 1280px;
 }
 
 #lightspeed {
