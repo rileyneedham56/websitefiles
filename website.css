@@ -1,4 +1,4 @@
-body {
+body { 
     background: url(images/Background.png);
 }
 
@@ -159,6 +159,15 @@ body {
     position: absolute;
     margin-top: 1300px;
     margin-left: 1280px;
+}
+
+#explain {
+    position: absolute;
+    font-size: 23px;
+    color: #B40404;
+    font-family: calibri;
+    margin-top: 1760px;
+    margin-left: 422px;
 }
 
 #lightspeed {
