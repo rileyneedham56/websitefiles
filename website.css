@@ -1,3 +1,7 @@
+* {
+    cursor: url(Images/pizzacursor.png), auto;
+}
+
 body { 
     background: url(images/Background.png);
 }
