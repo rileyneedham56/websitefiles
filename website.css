@@ -1,3 +1,7 @@
+* {
+    cursor: url(Images/pizzacursor.png), auto;
+}
+
 body { 
     background: url(images/Background.png);
 }
@@ -233,6 +237,23 @@ body {
      position: absolute;
      margin-top: 2400px;
      margin-left: 1005px
+}
+
+#backtotop {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2665px;
+    margin-left: 1660px;
+}
+
+#toplink {
+    text-decoration: none;
+    color: #04B404;
+}
+
+#toplink:hover {
+    color: #02FE30;
 }
 
 #bottom {
