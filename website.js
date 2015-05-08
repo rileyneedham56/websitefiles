@@ -10,7 +10,7 @@ var order = function() {
 
 var pizzas = function() {
 
-    confirm("Our pizzas include: Cheese, Pepperoni, Hamburger, Canadian Bacon, and Custom. Our sizes are small (10in.), medium (15in.), and large (20in.).");
+    confirm("Here at Galaxy Pizza we have Cheese and Pepperoni pizzas pre-made that we keep hot and ready for you to order. We also make pizzas with any topings you like, but it will take some time as we have to make it after you order it. Our sizes are small (10in.), medium (15in.), and large (20in.).");
 
 }
 
