@@ -167,11 +167,11 @@ body {
 
 #explain {
     position: absolute;
-    font-size: 23px;
+    font-size: 28px;
     color: red;
     font-family: calibri;
     margin-top: 1760px;
-    margin-left: 422px;
+    margin-left: 222px;
 }
 
 #lightspeed {
@@ -266,10 +266,10 @@ body {
 
 #bottom {
     height: 100px;
-    width: 1886px;
+    width: 1904px;
     background: #0B0719;
     position: absolute;
-    margin-top: 2700px;
+    margin: 2700px 0px 0px -8px;
 }
 
 #smalltitle {
