@@ -112,65 +112,74 @@ body {
     opacity: 1;
 }
 
+#page2{
+    background: url(Images/Background-red.png);
+    position: absolute;
+    margin-top: 900px;
+    margin-left: -8px;
+    height: 920px;
+    width: 1904px;
+}
+
 #browse {
     position: absolute;
     color: #ffffff;
     font-family: calibri;
     font-size: 60px;
-    margin-top: 1000px;
+    margin-top: 100px;
     margin-left: 550px;
 }
 
 #cheese {
     position: absolute;
-    color: red;
+    color: #02FE30;
     font-family: calibri;
     font-size: 50px;
-    margin-top: 1200px;
+    margin-top: 200px;
     margin-left: 200px;
 }
 
 #cheesepizza {
     position: absolute;
-    margin-top: 1300px;
+    margin-top: 300px;
 }
 
 #pepperoni {
     position: absolute;
-    color: red;
+    color: #02FE30;
     font-family: calibri;
     font-size: 50px;
-    margin-top: 1200px;
+    margin-top: 200px;
     margin-left: 820px;
 }
 
 #pepperonipizza {
     position: absolute;
-    margin-top: 1300px;
+    margin-top: 300px;
     margin-left: 640px;
 }
 
 #custom {
     position: absolute;
-    color: red;
+    color: #02FE30;
     font-family: calibri;
     font-size: 50px;
-    margin-top: 1200px;
+    margin-top: 200px;
     margin-left: 1480px;
 }
 
 #custompizza {
     position: absolute;
-    margin-top: 1300px;
+    margin-top: 300px;
     margin-left: 1280px;
 }
 
 #explain {
     position: absolute;
     font-size: 28px;
-    color: red;
+    color: #02FE30;
     font-family: calibri;
-    margin-top: 1760px;
+    margin-top: 760px;
     margin-left: 222px;
 }
 
