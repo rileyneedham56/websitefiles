@@ -338,6 +338,14 @@ body {
     position: absolute;
     font-family: calibri;
     font-size: 30px;
-    margin-top: 2665px;
-    margin-left: 90px;
+    margin-top: 2480px;
+    margin-left: 25px;
+}
+
+#rocketship2 {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2480px;
+    margin-left: 1802px;
 }
