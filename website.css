@@ -247,6 +247,14 @@ body {
     margin-left: 1660px;
 }
 
+#backtotop2 {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2665px;
+    margin-left: 90px;
+}
+
 #toplink {
     text-decoration: none;
     color: #04B404;
@@ -315,4 +323,12 @@ body {
     margin-left: 1600px;
     font-family: calibri;
     font-size: 17px;
+}
+
+#rocketship {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2665px;
+    margin-left: 90px;
 }
