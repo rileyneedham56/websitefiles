@@ -1,3 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+
 * {
     cursor: url(Images/pizzacursor.png), auto;
 }
@@ -117,7 +120,7 @@ body {
     position: absolute;
     margin-top: 900px;
     margin-left: -8px;
-    height: 920px;
+    height: 990px;
     width: 1904px;
 }
 
@@ -130,7 +133,7 @@ body {
     margin-left: 550px;
 }
 
-#cheese {
+#ten {
     position: absolute;
     color: #02FE30;
     font-family: calibri;
@@ -144,34 +147,34 @@ body {
     margin-top: 300px;
 }
 
-#pepperoni {
+#fifteen {
     position: absolute;
     color: #02FE30;
     font-family: calibri;
     font-size: 50px;
     margin-top: 200px;
-    margin-left: 820px;
+    margin-left: 870px;
 }
 
 #pepperonipizza {
     position: absolute;
     margin-top: 300px;
-    margin-left: 640px;
+    margin-left: 652px;
 }
 
-#custom {
+#twenty {
     position: absolute;
     color: #02FE30;
     font-family: calibri;
     font-size: 50px;
     margin-top: 200px;
-    margin-left: 1480px;
+    margin-left: 1525px;
 }
 
 #custompizza {
     position: absolute;
     margin-top: 300px;
-    margin-left: 1280px;
+    margin-left: 1304px;
 }
 
 #explain {
@@ -338,14 +341,9 @@ body {
     position: absolute;
     font-family: calibri;
     font-size: 30px;
-    margin-top: 2665px;
-    margin-left: 90px;
+    margin-top: 2480px;
+    margin-left: 25px;
 }
- kfidgjdfj
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
-
-
-
 
 
 #light-theme 
@@ -502,4 +500,12 @@ li{
 li:hover{
 	color:#00BFA5;
 	cursor:pointer;
+}
+
+#rocketship2 {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2480px;
+    margin-left: 1802px;
 }
