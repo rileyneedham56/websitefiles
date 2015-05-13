@@ -75,5 +75,85 @@
         <div id="zipcode">Dallas, TX, 75165</div>
         
     </div>
+    <div id="light-theme"><!--this was a body with a tag of class--!>
+
+        <!--Sidebar Content-->
+        <div class="sidebar">
+
+            <div class="sidebar-profile">
+					 <div id="items"><ul class="nobullets">
+						 <li>About</li>
+						 <li>Locations</li>
+						 <li>Menu</li>
+						 <li>Order</li>
+						 <li>Calendar</li>
+					</div>
+                <div class="sidebar-user-image-container">
+
+                   <div class="sidebar-user-
+							image"> 
+							 
+                       <div class="s"> 
+                           </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="sidebar-action" data-action="overview">
+                
+            </div>
+            <div class="sidebar-action" data-action="users">
+                
+            </div>
+            <div class="sidebar-action" data-action="pools">
+                
+            </div>
+
+        </div>
+
+        <!--Sidebar Toggle Button-->
+        <div class="material-icon hamburger menuToggle" data-icon="hamburger">
+            <span class="first"></span>
+            <span class="second"></span>
+            <span class="third"></span>
+        </div>
+
+     
+        <div>
+            
+        </div>
+
+    <script>
+        $(function(){
+	/*this var switches means the animation of ze hamburger*/
+	var switches = 
+	{
+		"hamburger": "arrow",
+		"arrow": "hamburger"
+	};
+
+	$(".hamburger").on("click", function (argument) 
+	{
+		icon = $(this).data("icon"),
+		newIcon = switches[icon];
+		if (newIcon) 
+		{
+			$(this).removeClass(icon).addClass(newIcon).data("icon", newIcon);
+		}
+		
+	}); 
+/*var switches ends here */
+	
+	$(".hamburger").on("click", function()
+	{ 
+		/*moves the actual sidebar, if disabled, sidebar does not appear*/
+		$(".sidebar").toggleClass('sidebar-active');
+		/*moves the hamburger along with the sidebar*/
+		$(".material-icon").toggleClass('menu-icon-sidebar');
+	});
+});
+
+            </script>
     
 </body>
