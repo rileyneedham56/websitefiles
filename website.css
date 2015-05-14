@@ -1,6 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
-
 * {
     cursor: url(Images/pizzacursor.png), auto;
 }
@@ -347,16 +346,22 @@ body {
 
 
 
+#rocketship2 {
+    position: absolute;
+    font-family: calibri;
+    font-size: 30px;
+    margin-top: 2480px;
+    margin-left: 1802px;
+}
 
 #light-theme 
 {
   background-color: #F2F2F2;
 }
 
-
 .sidebar 
 {
-  position: absolute;
+  position: fixed;
   background-color: white;
   top:0;
   left: 0;
@@ -370,9 +375,7 @@ body {
   -webkit-transition: left 500ms, visibility 0s linear 500ms, opacity 500ms linear; 
 	background-color:
 		#263238;
-	
 }
-
 
 .sidebar-active 
 {
@@ -389,7 +392,7 @@ body {
   width: 70px;
   height: 70px;
   margin: 35px;
-  position: absolute;
+  position: fixed;
   cursor: pointer;
   -webkit-transition: margin-left 500ms; /* For Safari 3.1 to 6.0 */
   transition: margin-left 500ms;
@@ -495,6 +498,7 @@ li{
 	color:white;
 	font-size:30px;
 }
+
 .nobullets {
     list-style-type: none;
 }
@@ -503,12 +507,3 @@ li:hover{
 	color:#00BFA5;
 	cursor:pointer;
 }
-
-#rocketship2 {
-    position: absolute;
-    font-family: calibri;
-    font-size: 30px;
-    margin-top: 2480px;
-    margin-left: 1802px;
-}
-
