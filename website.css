@@ -119,7 +119,7 @@ body {
     position: absolute;
     margin-top: 900px;
     margin-left: -8px;
-    height: 990px;
+    height: 915px;
     width: 1904px;
 }
 
@@ -179,7 +179,7 @@ body {
 #explain {
     position: absolute;
     font-size: 28px;
-    color: #02FE30;
+    color: #ab33ff;
     font-family: calibri;
     margin-top: 760px;
     margin-left: 222px;
@@ -198,39 +198,46 @@ body {
 
 #ship1 {
     position: absolute;
-    margin-top: 2070px;
+    margin-top: 2185px;
     margin-left: 80px;
 }
 
 #ship2 {
     position: absolute;
-    margin-top: 2070px;
+    margin-top: 2185px;
     margin-left: 1520px;
 }
 
 #ship3 {
     position: absolute;
-    margin-top: 2350px;
-    margin-left: 190px;
+    margin-top: 2440px;
+    margin-left: 330px;
 }
 
 #ship4 {
     position: absolute;
-    margin-top: 2350px;
-    margin-left: 1410px;
+    margin-top: 2440px;
+    margin-left: 1299px;
 }
 
 #ship5 {
     position: absolute;
-    margin-top: 2000px;
-    margin-left: 610px;
+    margin-top: 1980px;
+    margin-left: 330px;
 }
 
 #ship6 {
     position: absolute;
-    margin-top: 2000px;
-    margin-left: 980px;
+    margin-top: 1980px;
+    margin-left: 1299px;
 }
+
+#ship7 {
+    position: absolute;
+    margin-top: 1880px;
+    margin-left: 791px;
+}
+
 
 #alien1 {
      position: absolute;
@@ -254,7 +261,7 @@ body {
     position: absolute;
     font-family: calibri;
     font-size: 30px;
-    margin-top: 2665px;
+    margin-top: 2635px;
     margin-left: 1660px;
 }
 
@@ -262,7 +269,7 @@ body {
     position: absolute;
     font-family: calibri;
     font-size: 30px;
-    margin-top: 2665px;
+    margin-top: 2635px;
     margin-left: 90px;
 }
 
@@ -334,14 +341,6 @@ body {
     margin-left: 1600px;
     font-family: calibri;
     font-size: 17px;
-}
-
-#rocketship {
-    position: absolute;
-    font-family: calibri;
-    font-size: 30px;
-    margin-top: 2480px;
-    margin-left: 25px;
 }
 
 #rocketship2 {
