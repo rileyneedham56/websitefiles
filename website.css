@@ -20,25 +20,25 @@ body {
 #pizza1 {
     position: absolute;
     margin-left: 115px;
-    margin-top: 240px
+    margin-top: 240px;
 }
 
 #pizza2 {
     position: absolute;
     margin-left: 565px;
-    margin-top: 240px
+    margin-top: 240px;
 }
 
 #pizza3 {
     position: absolute;
     margin-left: 985px;
-    margin-top: 240px
+    margin-top: 240px;
 }
 
 #pizza4 {
     position: absolute;
     margin-left: 1455px;
-    margin-top: 240px
+    margin-top: 240px;
 }
 
 #about {
@@ -352,126 +352,107 @@ body {
     margin-left: 1802px;
 }
 
-#light-theme 
-{
-  background-color: #F2F2F2;
+#light-theme {
+    background-color: #F2F2F2;
 }
 
-.sidebar 
-{
-  position: fixed;
-  background-color: white;
-  top:0;
-  left: 0;
-  height: 100%;
-  left: -25%;
-  width: 25%;
-  z-index: 500;
-  box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
-  visibility:hidden;
-  opacity:0;
-  -webkit-transition: left 500ms, visibility 0s linear 500ms, opacity 500ms linear; 
-	background-color:
-		#263238;
+.sidebar {
+    position: fixed;
+    background-color: white;
+    top:0;
+    left: 0;
+    height: 100%;
+    left: -25%;
+    width: 25%;
+    z-index: 500;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    visibility:hidden;
+    opacity:0;
+    -webkit-transition: left 500ms, visibility 0s linear 500ms, opacity 500ms linear; 
+	background-color:#263238;
 }
 
-.sidebar-active 
-{
-  left:0%;
-  visibility:visible;
-  opacity:1;
-  transition-delay:0s;
+.sidebar-active {
+    left:0%;
+    visibility:visible;
+    opacity:1;
+    transition-delay:0s;
 }
 
-
-.material-icon 
-{ top:90px;
+.material-icon { 
+    top:90px;
     left:65px;
-  width: 70px;
-  height: 70px;
-  margin: 35px;
-  position: fixed;
-  cursor: pointer;
-  -webkit-transition: margin-left 500ms; /* For Safari 3.1 to 6.0 */
-  transition: margin-left 500ms;
+    width: 70px;
+    height: 70px;
+    margin: 35px;
+    position: fixed;
+    cursor: pointer;
+    -webkit-transition: margin-left 500ms; /* For Safari 3.1 to 6.0 */
+    transition: margin-left 500ms;
 }
 
-.menu-icon-sidebar
-{
-  margin-left: 28%;
+.menu-icon-sidebar {
+    margin-left: 28%;
 }
  
-.material-icon span 
-{
-  transition: all 500ms ease;
+.material-icon span {
+    transition: all 500ms ease;
 }
  
-.material-icon span 
-{
-  background-color: #CFD8DC;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0;
-  width: 100%;
+.material-icon span {
+    background-color: #CFD8DC;
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 100%;
 }
 
-.hamburger span 
-{
-  height: 10px;
-  -webkit-transform: translateY(29px);
+.hamburger span {
+    height: 10px;
+    -webkit-transform: translateY(29px);
 }
  
-.hamburger .second 
-{
-  -webkit-transform: translateY(0);
+.hamburger .second {
+    -webkit-transform: translateY(0);
 }
  
-.hamburger .third
-{
-  -webkit-transform: translateY(60px);
+.hamburger .third {
+    -webkit-transform: translateY(60px);
 }
 
-.hamburger span, .arrow span 
-{
-  height: 10px;
-  -webkit-transform: translateY(29px);
+.hamburger span, .arrow span {
+    height: 10px;
+    -webkit-transform: translateY(29px);
 }
  
 /* I also need to move it back a bit to keep it centered. */
-.arrow 
-{
-  -webkit-transform: translateX(-3px);
+.arrow {
+    -webkit-transform: translateX(-3px);
 }
 
-.arrow .first
-{
-  left:10px;
-  width: 50px;
+.arrow .first {
+    left:10px;
+    width: 50px;
 }
  
-.arrow .third 
-{
-  -webkit-transform: rotate(45deg)  translateY(30px) translateX(25px);
-  width: 40px;
+.arrow .third {
+    -webkit-transform: rotate(45deg)  translateY(30px) translateX(25px);
+    width: 40px;
 }
  
-.arrow .second 
-{
+.arrow .second {
 	-webkit-transform: rotate(-45deg) translateY(10px) translateX(-15px);
-  width: 40px;
-  
+    width: 40px;
 }
 
-
-.sidebar-user-image
-{ inline-border:100%;
-  height: 0;
-  padding-bottom: 100%;
-  
+.sidebar-user-image { 
+    inline-border:100%;
+    height: 0;
+    padding-bottom: 100%;
 }
 
-.s{
+.s {
     position:relative;
     content: url(https://lh3.googleusercontent.com/-24KW6tYn8Yk/VT6F7QyVK3I/AAAAAAAAGy0/3cYIgFS96eY/s506/Pizza-illustrator-03-vector-material-33314.png);
     height:250px;
@@ -480,16 +461,13 @@ body {
     left:50px;
 }
 
-
-
-ul{
+ul {
 	position:relative;
 	top:300px;
 	left:70px;
-	
 }
 
-li{
+li {
 	width:80px;
 	height:80px;
 	font-family:Lato;
@@ -501,8 +479,7 @@ li{
     list-style-type: none;
 }
 
-li:hover{
+li:hover {
 	color:#00BFA5;
 	cursor:pointer;
 }
-
